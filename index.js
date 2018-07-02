@@ -1,5 +1,6 @@
 module.export={
    rules:{
+    "no-console":"off",
     "indent": [
         "error",
         4
